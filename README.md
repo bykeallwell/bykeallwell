@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bykeallwell
 - 👀 I’m interested in FrontEnd Web Development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on bykeallwell@outlook.com, or on Twitter @mistahbykie
 
 <!---
